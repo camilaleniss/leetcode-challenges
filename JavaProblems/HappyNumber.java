@@ -1,4 +1,4 @@
-package leetcode;
+package JavaProblems;
 
 import java.util.Set;
 import java.util.HashSet;
