@@ -25,4 +25,4 @@ def convertString(cadena):
 
     return new_string
 
-print(backspaceCompare("a##c", "#a#c"))
+print(backspaceCompare("a###", "###"))
