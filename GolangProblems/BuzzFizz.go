@@ -103,7 +103,7 @@ func logResponses(responses []string) {
 	}
 }
 
-func main() {
+func mainProblem() {
 	text, _ := reader.ReadString('\n')
 	text = strings.ReplaceAll(text, "\n", "")
 
